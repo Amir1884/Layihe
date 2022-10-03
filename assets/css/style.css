@@ -1,0 +1,290 @@
+h1 {
+    position: absolute;
+    width: 211.4px;
+    height: 53.86px;
+    left: 70.08px;
+    top: 612.17px;
+
+    font-family: 'Roboto Slab';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 32px;
+    line-height: 101.38%;
+    color: #000000;
+}
+
+p {
+    position: absolute;
+    width: 383.41px;
+    height: 216.61px;
+    left: 70.08px;
+    top: 676.46px;
+
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 150%;
+    color: #000000;
+}
+
+.image {
+    position: absolute;
+    width: 181.86px;
+    height: 182.44px;
+    left: 563.53px;
+    top: 690.36px;
+
+    background: url(_1.png);
+}
+
+.image1 {
+    position: absolute;
+    width: 134.37px;
+    height: 117.57px;
+    left: 70.08px;
+    top: 947.51px;
+
+    background: url(photo.png);
+}
+
+.gzt {
+    display: flex;
+    list-style: none;
+}
+
+.zanit {
+    position: absolute;
+    width: 86.88px;
+    height: 22.59px;
+    left: 280.9px;
+    top: 988.05px;
+
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 15px;
+    line-height: 130%;
+    color: #000000;
+}
+
+.saat {
+    position: absolute;
+    width: 86.88px;
+    height: 22.59px;
+    left: 422.79px;
+    top: 988.05px;
+
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 15px;
+    line-height: 130%;
+    color: #000000;
+}
+
+.nedeli {
+    position: absolute;
+    width: 86.88px;
+    height: 22.59px;
+    left: 563.53px;
+    top: 988.05px;
+
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 15px;
+    line-height: 130%;
+    color: #000000;
+
+}
+
+.class {
+    display: flex;
+    list-style: none;
+}
+
+.dlya {
+    position: absolute;
+    width: 86.88px;
+    height: 22.59px;
+    left: 280.9px;
+    top: 1011.22px;
+
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 11px;
+    line-height: 130%;
+    color: #000000;
+}
+
+.dlitel {
+    position: absolute;
+    width: 108px;
+    height: 23px;
+    left: 423px;
+    top: 1011px;
+
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 11px;
+    line-height: 130%;
+    color: #000000;
+
+}
+
+.dli {
+    position: absolute;
+width: 86.88px;
+height: 22.59px;
+left: 563.53px;
+top: 1011.22px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 11px;
+line-height: 130%;
+color: #000000;
+
+}
+
+.format {
+    position: absolute;
+    width: 386.3px;
+    height: 53.86px;
+    left: 70.08px;
+    top: 1168.17px;
+
+    font-family: 'Roboto Slab';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 32px;
+    line-height: 101.38%;
+    color: #000000;
+
+}
+.format1 {
+   display: flex;
+   list-style-type: none; 
+}
+.bebinar {
+    position: absolute;
+width: 86.88px;
+height: 22.59px;
+left: 70.66px;
+top: 1273.58px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 700;
+font-size: 15px;
+line-height: 130%;
+color: #1E4681;
+}
+.dostup {
+    position: absolute;
+width: 123.94px;
+height: 22.59px;
+left: 270.47px;
+top: 1273.58px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 700;
+font-size: 15px;
+line-height: 130%;
+color: #1E4681;
+}
+.obsi {
+    position: absolute;
+width: 86.88px;
+height: 22.59px;
+left: 492.87px;
+top: 1273.58px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 700;
+font-size: 15px;
+line-height: 130%;
+color: #1E4681;
+
+}
+.klass {
+    display: flex;
+    list-style-type: none;
+}
+.klass1 {
+    position: absolute;
+width: 153px;
+height: 22px;
+left: 71px;
+top: 1297px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 11px;
+line-height: 130%;
+color: #000000;
+}
+.klass2 {
+    position: absolute;
+    width: 172px;
+    height: 63px;
+    left: 270px;
+    top: 1297px;
+    
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 11px;
+    line-height: 130%;
+    color: #000
+}
+.klass3 {
+    position: absolute;
+width: 141.9px;
+height: 22.59px;
+left: 492.87px;
+top: 1296.75px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 11px;
+line-height: 130%;
+color: #000000;
+}
+.cto {
+    position: absolute;
+width: 386.3px;
+height: 53.86px;
+left: 70.08px;
+top: 1463.55px;
+
+font-family: 'Roboto Slab';
+font-style: normal;
+font-weight: 700;
+font-size: 32px;
+line-height: 101.38%;
+color: #000000;
+}
+.klass5{
+    position: absolute;
+width: 383.41px;
+height: 216.61px;
+left: 79.92px;
+top: 1529.57px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 150%;
+color: #000000;
+
+}
