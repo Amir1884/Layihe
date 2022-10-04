@@ -35,8 +35,41 @@ margin-top: 65px;
     width: 232px;
 height: 203px;
 margin-top: 94px;
-margin-left: 121px;
+
 }
 .amir-flex {
-    display: flex;
+   display: flex;
+   
+
+    }
+    .amir-1 {
+        padding-top: 164px;
+        padding-left: 132px;
+    }
+    .amir-2 {
+        padding-top: 164px;
+        padding-left: 95px;
+    }
+.amir-3 {
+    padding-top: 164px;
+    padding-left: 95px;
+}
+.a-h3 {
+    width: 150px;
+height: 39px;
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 700;
+font-size: 25px;
+line-height: 130%;
+}
+.a-p {
+    width: 150px;
+height: 39px;
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 18px;
+line-height: 130%;
+
 }
